@@ -6,8 +6,8 @@ for the themes I've done
 After this are some quick links, 
 instructions below
 
-* [Color](color)
-* [NkdP](nkdp)
-* [Old](old)
+* ["Color" themes](color)
+* NkdP themes \([orig](https://github.com/adakkusu-san/windowstheme)\)
+* [Old themes](old)
 
 **TODO**
