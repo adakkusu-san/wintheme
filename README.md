@@ -7,7 +7,7 @@ After this are some quick links,
 instructions below
 
 * ["Color" themes](color)
-* NkdP themes \([orig](https://github.com/adakkusu-san/windowstheme)\)
+* [NkdP themes](nkdp) \([orig](https://github.com/adakkusu-san/windowstheme)\)
 * [Old themes](old)
 
 **TODO**
